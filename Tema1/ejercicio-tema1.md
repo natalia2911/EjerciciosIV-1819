@@ -26,12 +26,12 @@ El procesador es : Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz
 La orden que hemos usado es `egrep '^flags.*(vmx|svm)' /proc/cpuinfo`
 
 ---
-![](https://github.com/natalia2911/EjerciciosIV-1819/blob/master/t1-ej3.png)
+![](https://github.com/natalia2911/EjerciciosIV-1819/blob/master/Tema1/t1-ej3.png)
 
 ### Ejercicio 4. Comprobar si el núcleo instalado en tu ordenador contiene este módulo del kernel usando la orden `kvm-ok`. -Instalar un hipervisor para gestionar máquinas virtuales, que más adelante se podrá usar en pruebas y ejercicios.
-1. ![](https://github.com/natalia2911/EjerciciosIV-1819/blob/master/t1-ej4.1.png)
+1. ![](https://github.com/natalia2911/EjerciciosIV-1819/blob/master/Tema1/t1-ej4.1.png)
 
-2.  ![](https://github.com/natalia2911/EjerciciosIV-1819/blob/master/t1-ej4.2.png)
+2. ![](https://github.com/natalia2911/EjerciciosIV-1819/blob/master/Tema1/t1-ej4.2.png)
 
 
 ### Ejercicio 5. Darse de alta en servicios de nube usando ofertas gratuitas o cupones que pueda proporcionar el profesor.
